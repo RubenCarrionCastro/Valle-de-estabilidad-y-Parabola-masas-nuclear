@@ -17,6 +17,11 @@ Este archivo implementa una función automatizada que:
 
 ---
 
+### 🔹 `EjecucionFuncion`
+Este archivo es un ejemplo de cómo llamar a la función **ParabolaMasas[]** y cómo cargar el repositorio anterior.
+
+---
+
 ### 🔹 `Nuclear-Ligadura-1`
 Este archivo se utiliza para:
 
